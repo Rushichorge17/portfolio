@@ -1,0 +1,27 @@
+.scrollup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff; /* Change the background color */
+    color: #fff; /* Change the text color */
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    display: none; /* Initially hide the button */
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .scrollup__icon {
+    font-size: 20px;
+  }
+  
+  .scrollup.show-scroll {
+    display: inline-block; /* Show the button when show-scroll class is present */
+  }
+  
+  /* Add hover effect if desired */
+  .scrollup:hover {
+    background-color: #0056b3; /* Change the background color on hover */
+  }
+  
