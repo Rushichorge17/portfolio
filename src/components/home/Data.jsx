@@ -55,10 +55,10 @@ const Data = () => {
                 </svg>
                 </h1>
                 <h3 className="home__subtitle">
-                    Front-End React Devloper
+                   MERN Stack Devloper
                 </h3>
                 <p className="home__description">
-                    Hi,I'm Rushikesh Chorge.A passionate Front-end React Devloper based in Maharashtra,India.
+                    Hi,I'm Rushikesh Chorge.A passionate MERN Stack Devloper based in Maharashtra,India.
                 </p>
 
                 <a href="#contact" className="button button--flex">Say Hello

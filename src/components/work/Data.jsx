@@ -33,7 +33,9 @@ export const projectsData = [
     {
       id: 4,
       image: Work4,
-      title: "App movil",
+      title: "Car Hub",
+      demoLink:"https://gocarhub.netlify.app/",
+      codeLink: "https://github.com/Rushichorge17/carrentalapp.git",
       category: "app",
     },
     {
